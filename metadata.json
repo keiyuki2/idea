@@ -1,0 +1,5 @@
+{
+  "name": "EA Generator UI Designer",
+  "description": "An application to analyze Expert Advisor (EA) code and generate a preview of a potential user interface for its parameters. This tool helps developers and traders visualize and design the configuration panel for their trading bots.",
+  "requestFramePermissions": []
+}
